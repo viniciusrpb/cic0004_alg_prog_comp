@@ -10,7 +10,7 @@ Prof. Dr. Lucas Rodrigues Costa
 
 ## Sumário
 
-0. [Fundamentos da Programação de Computadores](0_fundamentos_programacao.md)
+0. [Fundamentos da Programação de Computadores](paginas/0_fundamentos_programacao.md)
 1. A Jornada do Programa
 2. Variáveis, expressões e instruções
 3. Funções
