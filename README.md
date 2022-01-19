@@ -10,4 +10,5 @@ Prof. Dr. Lucas Rodrigues Costa
 
 ## Sumário
 
+0. [Bate-papo](0_batepapo.md)
 1. A Jornada da Computação
