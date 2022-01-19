@@ -10,5 +10,16 @@ Prof. Dr. Lucas Rodrigues Costa
 
 ## Sumário
 
-0. [Bate-papo](0_batepapo.md)
-1. A Jornada da Computação
+0. [Fundamentos da Programação de Computadores](0_fundamentos_programacao.md)
+1. A Jornada do Programa
+2. Variáveis, expressões e instruções
+3. Funções
+4. Estudo de caso: projeto de interface
+5. Condicionais e recursividade
+6. Funções com resultado
+7. Iteração
+8. Strings
+9. Listas
+10. Dicionários
+11. Tuplas
+12. Arquivos
