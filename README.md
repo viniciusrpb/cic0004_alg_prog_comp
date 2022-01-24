@@ -10,8 +10,14 @@ Prof. Dr. Lucas Rodrigues Costa
 
 ## Sumário
 
-0. [Fundamentos da Programação de Computadores](paginas/0_fundamentos_programacao.md)
 1. A Jornada do Programa
+
+   1.1. [Fundamentos de Programação de Computadores](paginas/0_fundamentos_programacao.md)
+   
+   1.2. [Sistemas Numéricos](paginas/cic0004_01_sistemasnumericos.pdf)
+   
+   1.3. Primeiros Passos
+      
 2. Variáveis, expressões e instruções
 3. Funções
 4. Estudo de caso: projeto de interface
