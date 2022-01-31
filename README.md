@@ -19,13 +19,16 @@ Prof. Dr. Lucas Rodrigues Costa
    1.3. Primeiros Passos
       
 2. Variáveis, expressões e instruções
-3. Funções
-4. Estudo de caso: projeto de interface
-5. Condicionais e recursividade
-6. Funções com resultado
-7. Iteração
-8. Strings
-9. Listas
-10. Dicionários
-11. Tuplas
-12. Arquivos
+
+   2.1. [Aula Teórica](paginas/cap_02_variaveis_expressoes.ipynb)
+
+4. Funções
+5. Estudo de caso: projeto de interface
+6. Condicionais e recursividade
+7. Funções com resultado
+8. Iteração
+9. Strings
+10. Listas
+11. Dicionários
+12. Tuplas
+13. Arquivos
