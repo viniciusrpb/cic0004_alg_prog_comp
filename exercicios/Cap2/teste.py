@@ -11,4 +11,5 @@
 #transporte_a = float(transporte_a)
 
 a = 7
-print(f"valor de a: {a:02d}")
+print(f"valor de a: {format(a,'^-09.3f')}")
+print(f"valor de a: {a:05.02f}")
