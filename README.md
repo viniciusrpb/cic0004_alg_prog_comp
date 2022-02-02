@@ -17,10 +17,14 @@ Prof. Dr. Lucas Rodrigues Costa
    1.2. [Sistemas Numéricos](paginas/cic0004_01_sistemasnumericos.pdf)
    
    1.3. Primeiros Passos
+   
+   1.4. [Aula Prática](exercicios/Cap1/)
       
 2. Variáveis, expressões e instruções
 
    2.1. [Aula Teórica](paginas/cap_02_variaveis_expressoes.ipynb)
+
+   2.2. [Aula Prática](exercicios/Cap2/)
 
 4. Funções
 5. Estudo de caso: projeto de interface
