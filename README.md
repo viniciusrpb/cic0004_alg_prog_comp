@@ -26,13 +26,20 @@ Prof. Dr. Lucas Rodrigues Costa
 
    2.2. [Aula Prática](exercicios/Cap2/)
 
-4. Funções
-5. Estudo de caso: projeto de interface
-6. Condicionais e recursividade
-7. Funções com resultado
-8. Iteração
-9. Strings
-10. Listas
-11. Dicionários
-12. Tuplas
-13. Arquivos
+3. Funções
+
+   3.1. [Aula Teórica](paginas/cap_03_funcoes.ipynb)
+   
+   3.2. Resolução de problema: [Beecrowd 2416 - Corrida](https://www.beecrowd.com.br/judge/en/problems/view/2416) [[Solução](exercicios/Cap3/beecrowd_2416.py)]
+
+   3.3. [Extra:](paginas/extra_03_input_print.ipynb) funções input() e print()
+   
+4. Estudo de caso: projeto de interface
+5. Condicionais e recursividade
+6. Funções com resultado
+7. Iteração
+8. Strings
+9. Listas
+10. Dicionários
+11. Tuplas
+12. Arquivos
