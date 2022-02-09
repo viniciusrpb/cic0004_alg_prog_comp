@@ -33,6 +33,8 @@ Prof. Dr. Lucas Rodrigues Costa
    3.2. Resolução de problema: [Beecrowd 2416 - Corrida](https://www.beecrowd.com.br/judge/en/problems/view/2416) [[Solução](exercicios/Cap3/beecrowd_2416.py)]
 
    3.3. [Extra:](paginas/extra_03_input_print.ipynb) exemplos de funções input() e print()
+
+   3.4. [Aula Prática](exercicios/Cap3/)
    
 4. Estudo de caso: projeto de interface
 5. Condicionais e recursividade
