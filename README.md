@@ -42,7 +42,7 @@ Prof. Dr. Lucas Rodrigues Costa
    
    4.2. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375) [[Solução](exercicios/Cap4/beecrowd_2375.py)]
 
-   4.3. [Aula Teórica: Condicionais](paginas/cap_04_recursividade.ipynb)
+   4.3. [Aula Teórica: Recursividade](paginas/cap_04_recursividade.ipynb)
 
    4.4. Resolução de problema: [Beecrowd 1153 - Fatorial Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1153) [[Solução](exercicios/Cap4/beecrowd_1153.py)]
 
