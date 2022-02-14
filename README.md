@@ -38,7 +38,7 @@ Prof. Dr. Lucas Rodrigues Costa
    
 4. Condicionais e recursividade
 
-   4.1. [Aula Teórica: Condicionais](paginas/cap_04_funcoes.ipynb)
+   4.1. [Aula Teórica: Condicionais](paginas/cap_04_condicionais.ipynb)
    
    4.2. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375) [[Solução](exercicios/Cap4/beecrowd_2375.py)]
 
