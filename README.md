@@ -36,12 +36,22 @@ Prof. Dr. Lucas Rodrigues Costa
 
    3.4. [Aula Prática](exercicios/Cap3/)
    
-4. Estudo de caso: projeto de interface
-5. Condicionais e recursividade
-6. Funções com resultado
-7. Iteração
-8. Strings
-9. Listas
-10. Dicionários
-11. Tuplas
-12. Arquivos
+4. Condicionais e recursividade
+
+   4.1. [Aula Teórica: Condicionais](paginas/cap_04_funcoes.ipynb)
+   
+   4.2. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375) [[Solução](exercicios/Cap4/beecrowd_2375.py)]
+
+   4.3. [Aula Teórica: Condicionais](paginas/cap_04_recursividade.ipynb)
+
+   4.4. Resolução de problema: [Beecrowd 1153 - Fatorial Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1153) [[Solução](exercicios/Cap4/beecrowd_1153.py)]
+
+   4.5. [Aula Prática](exercicios/Cap4/)
+   
+5. Funções com resultado
+6. Iteração
+7. Strings
+8. Listas
+9. Dicionários
+10. Tuplas
+11. Arquivos
