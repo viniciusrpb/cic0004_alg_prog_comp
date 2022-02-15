@@ -40,7 +40,7 @@ Prof. Dr. Lucas Rodrigues Costa
 
    4.1. [Aula Teórica: Condicionais](paginas/cap_04_condicionais.ipynb)
    
-   4.2. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375) [[Solução](exercicios/Cap4/beecrowd_2375.py)]
+   4.2. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375) [[Solução com AND](exercicios/Cap4/beecrowd_2375_and.py)] [[Solução com OR](exercicios/Cap4/beecrowd_2375_or.py)]
 
    4.3. [Aula Teórica: Recursividade](paginas/cap_04_recursividade.ipynb)
 
