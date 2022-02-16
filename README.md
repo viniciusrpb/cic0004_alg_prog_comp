@@ -40,13 +40,13 @@ Prof. Dr. Lucas Rodrigues Costa
 
    4.1. [Aula Teórica: Condicionais](paginas/cap_04_condicionais.ipynb)
    
-   4.2. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375) [[Solução com AND](exercicios/Cap4/beecrowd_2375_and.py)] [[Solução com OR](exercicios/Cap4/beecrowd_2375_or.py)]
+   4.2. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375) [[Solução com AND](exercicios/Cap5/beecrowd_2375_and.py)] [[Solução com OR](exercicios/Cap5/beecrowd_2375_or.py)]
 
    4.3. [Aula Teórica: Recursividade](paginas/cap_04_recursividade.ipynb)
 
-   4.4. Resolução de problema: [Beecrowd 1153 - Fatorial Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1153) [[Solução](exercicios/Cap4/beecrowd_1153.py)]
+   4.4. Resolução de problema: [Beecrowd 1153 - Fatorial Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1153) [[Solução](exercicios/Cap5/beecrowd_1153.py)]
 
-   4.5. [Aula Prática](exercicios/Cap4/)
+   4.5. [Aula Prática](exercicios/Cap5/)
    
 5. Funções com resultado
 6. Iteração
