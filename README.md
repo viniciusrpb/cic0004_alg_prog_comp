@@ -52,11 +52,11 @@ Prof. Dr. Lucas Rodrigues Costa
 
    5.1. [Aula Teórica: Condicionais](paginas/cap_05_funcoes_resultado.ipynb)
 
-   5.2. Fatorial com retorno de quantidade de chamadas recursivas: [[Versão 1 - Naive](exercicios/Cap5/fatorial_chamadas_v1.py)] [[Versão 2 - Clever](exercicios/Cap5/fatorial_chamadas_v2.py)]
+   5.2. Fatorial com retorno de quantidade de chamadas recursivas: [[Versão 1 - Naive](exercicios/Cap6/fatorial_chamadas_v1.py)] [[Versão 2 - Clever](exercicios/Cap6/fatorial_chamadas_v2.py)]
 
-   5.3. Resolução de problema: [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](exercicios/Cap5/beecrowd_2786)]
+   5.3. Resolução de problema: [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](exercicios/Cap6/beecrowd_2786)]
 
-   5.4. Resolução de problema: [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](exercicios/Cap5/beecrowd_2166.py)]
+   5.4. Resolução de problema: [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](exercicios/Cap6/beecrowd_2166.py)]
 
 
 6. Iteração
