@@ -50,7 +50,7 @@ Prof. Dr. Lucas Rodrigues Costa
    
 5. Funções com resultado
 
-   5.1. [Aula Teórica: Condicionais](paginas/cap_05_funcoes_resultado.ipynb)
+   5.1. [Aula Teórica: Funções com Resultado](paginas/cap_05_funcoes_resultado.ipynb)
 
    5.2. Fatorial com retorno de quantidade de chamadas recursivas: [[Versão 1 - Naive](exercicios/Cap6/fatorial_chamadas_v1.py)] [[Versão 2 - Clever](exercicios/Cap6/fatorial_chamadas_v2.py)]
 
@@ -60,10 +60,16 @@ Prof. Dr. Lucas Rodrigues Costa
 
    5.5. [Aula Prática](exercicios/Cap6/)
 
-
 6. Iteração
-7. Strings
-8. Listas
-9. Dicionários
-10. Tuplas
-11. Arquivos
+
+   6.1. [Aula Teórica: Iteração](paginas/cap06_iteracao.ipynb)
+   
+   6.2. Resolução de problema: [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](exercicios/Cap7/beecrowd_1585.py)]
+   
+   6.3. [Aula Prática](exercicios/Cap7/)
+   
+8. Strings
+9. Listas
+10. Dicionários
+11. Tuplas
+12. Arquivos
