@@ -70,7 +70,7 @@ Prof. Dr. Lucas Rodrigues Costa
    
 7. Strings
 
-   7.1. [Aula Teórica: String](paginas/cap07_strings.ipynb)
+   7.1. [Aula Teórica: Strings](paginas/cap07_strings.ipynb)
 
 9. Listas
 10. Dicionários
