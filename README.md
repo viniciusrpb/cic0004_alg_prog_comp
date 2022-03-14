@@ -68,7 +68,10 @@ Prof. Dr. Lucas Rodrigues Costa
    
    6.3. [Aula Prática](exercicios/Cap7/)
    
-8. Strings
+7. Strings
+
+   7.1. [Aula Teórica: String](paginas/cap07_strings.ipynb)
+
 9. Listas
 10. Dicionários
 11. Tuplas
