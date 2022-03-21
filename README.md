@@ -65,15 +65,24 @@ Prof. Dr. Lucas Rodrigues Costa
    6.1. [Aula Teórica: Iteração](paginas/cap06_iteracao.ipynb)
    
    6.2. Resolução de problema: [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](exercicios/Cap7/beecrowd_1585.py)]
+
+   6.3. Resolução de problema: [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução v1 - sem lista](exercicios/Cap9/beecrowd_2328_v1.py)]
    
-   6.3. [Aula Prática](exercicios/Cap7/)
+   6.4. [Aula Prática](exercicios/Cap7/)
    
 7. Strings
 
    7.1. [Aula Teórica: Strings](paginas/cap07_strings.ipynb)
+   
+   7.2. Resolução de problema: [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](exercicios/Cap7/beecrowd_2866.py)]
 
-   7.2. [Aula Prática](exercicios/Cap8/)
+   7.3. [Aula Prática](exercicios/Cap8/)
 
-9. Listas
+8. Listas
+   
+   8.1. [Aula Teórica: Listas](paginas/cap08_listas.ipynb)
+   
+   8.2. Resolução de problema: [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução v2](exercicios/Cap9/beecrowd_2328_v2.py)] [[Solução v3](exercicios/Cap9/beecrowd_2328_v3.py)]
+
 10. Dicionários e Tuplas
 11. Arquivos
