@@ -74,7 +74,7 @@ Prof. Dr. Lucas Rodrigues Costa
 
    7.1. [Aula Teórica: Strings](paginas/cap07_strings.ipynb)
    
-   7.2. Resolução de problema: [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](exercicios/Cap7/beecrowd_2866.py)]
+   7.2. Resolução de problema: [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](exercicios/Cap8/beecrowd_2866.py)]
 
    7.3. [Aula Prática](exercicios/Cap8/)
 
