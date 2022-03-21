@@ -75,6 +75,5 @@ Prof. Dr. Lucas Rodrigues Costa
    7.2. [Aula Prática](exercicios/Cap8/)
 
 9. Listas
-10. Dicionários
-11. Tuplas
-12. Arquivos
+10. Dicionários e Tuplas
+11. Arquivos
