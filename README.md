@@ -84,5 +84,7 @@ Prof. Dr. Lucas Rodrigues Costa
    
    8.2. Resolução de problema: [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução v2](exercicios/Cap9/beecrowd_2328_v2.py)] [[Solução v3](exercicios/Cap9/beecrowd_2328_v3.py)]
 
+   8.3. [Aula Prática](exercicios/Cap9/)
+
 10. Dicionários e Tuplas
 11. Arquivos
