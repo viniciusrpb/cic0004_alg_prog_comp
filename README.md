@@ -86,11 +86,9 @@ Prof. Dr. Lucas Rodrigues Costa
 
    8.3. Resolução de problema: [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](exercicios/Cap9/beecrowd_1259.py)]
 
-   8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](exercicios/Cap9/beecrowd_1259.py)]
+   8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução Incompleta](exercicios/Cap9/beecrowd_1383.py)]
 
-
-
-   8.3. [Aula Prática](exercicios/Cap9/)
+   8.5. [Aula Prática I](exercicios/Cap9/)
 
 10. Dicionários e Tuplas
 11. Arquivos
