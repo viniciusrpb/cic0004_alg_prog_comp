@@ -88,7 +88,7 @@ Prof. Dr. Lucas Rodrigues Costa
 
    8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução Incompleta](exercicios/Cap9/beecrowd_1383.py)]
 
-   8.5. [Aula Prática I](exercicios/Cap9/)
+   8.5. [Aula Prática I e II](exercicios/Cap9/)
 
 10. Dicionários e Tuplas
 11. Arquivos
