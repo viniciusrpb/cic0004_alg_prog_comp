@@ -86,9 +86,18 @@ Prof. Dr. Lucas Rodrigues Costa
 
    8.3. Resolução de problema: [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](exercicios/Cap9/beecrowd_1259.py)]
 
-   8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução Incompleta](exercicios/Cap9/beecrowd_1383.py)]
+   8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](exercicios/Cap9/beecrowd_1383.py)]
 
    8.5. [Aula Prática I e II](exercicios/Cap9/)
 
-10. Dicionários e Tuplas
-11. Arquivos
+9. Dicionários e Tuplas
+
+   9.1. [Aula Teórica: Dicionários e Tuplas](paginas/cap09_dicionarios_tuplas.ipynb)
+   
+   9.2. Resolução de problema: [Beecrowd 1168 - LED](https://www.beecrowd.com.br/judge/en/problems/view/1168) [[Solução](exercicios/Cap10/beecrowd_1168.py)]
+
+   9.3. Resolução de problema: [Beecrowd 1318 - Fake Tickets](https://www.beecrowd.com.br/judge/en/problems/view/1318) [[Solução](exercicios/Cap10/beecrowd_1318.py)]
+
+   9.4. Resolução de problema: [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](exercicios/Cap10/beecrowd_2370.py)]
+
+10. Arquivos
