@@ -34,7 +34,4 @@ while n > 0 and m > 0:
   print(ans)
 
   n,m = (int(x) for x in input().split())
-    
-      
-
   
