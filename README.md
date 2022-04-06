@@ -100,4 +100,6 @@ Prof. Dr. Lucas Rodrigues Costa
 
    9.4. Resolução de problema: [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](exercicios/Cap10/beecrowd_2370.py)]
 
+   9.5. [Aula Prática](exercicios/Cap10/)
+
 10. Arquivos

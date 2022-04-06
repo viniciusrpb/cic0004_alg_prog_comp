@@ -22,9 +22,9 @@ def imprime_jogo():
         print(*linha)
         
 def gravidade(jogo):
-    for linha in range(len(jogo)-1,-1,-1):
+    for linha in range(len(jogo)-2,-1,-1):
         for coluna in range(len(jogo[linha])):
-            if jogo[linha][coluna] == "o" and linha+1 < len(jogo):
+            if jogo[linha][coluna] == "o":
                 if jogo[linha+1][coluna] == ".":
                     jogo[linha][coluna] = "."
                     jogo[linha+1][coluna] = "o"
