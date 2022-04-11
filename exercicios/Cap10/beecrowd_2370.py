@@ -50,8 +50,3 @@ for time in times:
     for atleta in times[time]:
         print(atleta)
     print()
-    
-
-
-
-
