@@ -103,3 +103,5 @@ Prof. Dr. Lucas Rodrigues Costa
    9.5. [Aula Prática](exercicios/Cap10/)
 
 10. Arquivos
+
+   10.1 [Aula Teórico-Prática](paginas/aula.zip)
