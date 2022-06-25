@@ -28,7 +28,7 @@ Prof. Dr. Vinícius R. P. Borges
    
    2.3. Resolução de problema: [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](exercicios/Cap6/beecrowd_2786.py)]
 
-<--3. Funções
+<!--3. Funções
 
    3.1. [Aula Teórica](paginas/cap_03_funcoes.ipynb)
    
@@ -108,4 +108,4 @@ Prof. Dr. Vinícius R. P. Borges
 
    10.1 [Aula Teórico-Prática](paginas/aula.zip)
 
-   10.2. [Aula Prática](exercicios/Cap11/)
+   10.2. [Aula Prática](exercicios/Cap11/)-->
