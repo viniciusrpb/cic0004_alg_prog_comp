@@ -1,12 +1,12 @@
 # CIC0004 - Algoritmos e Programação de Computadores (APC)
 
-Material didático de apoio para a disciplina **CIC0004 - Algoritmos e Programação de Computadores** (Turma F), do Departamento de Ciência da Computação, da Universidade de Brasília para o semestre 2021/2.
+Material didático de apoio para a disciplina **CIC0004 - Algoritmos e Programação de Computadores** (Turma 11), do Departamento de Ciência da Computação, da Universidade de Brasília para o semestre 2022/1.
 
 ## Autores
 
-Prof. Dr. Vinícius R. P. Borges
-
 Prof. Dr. Lucas Rodrigues Costa
+
+Prof. Dr. Vinícius R. P. Borges
 
 ## Sumário
 
@@ -25,8 +25,10 @@ Prof. Dr. Lucas Rodrigues Costa
    2.1. [Aula Teórica](paginas/cap_02_variaveis_expressoes.ipynb)
 
    2.2. [Aula Prática](exercicios/Cap2/)
+   
+   2.3. Resolução de problema: [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](exercicios/Cap6/beecrowd_2786.py)]
 
-3. Funções
+<--3. Funções
 
    3.1. [Aula Teórica](paginas/cap_03_funcoes.ipynb)
    
@@ -86,7 +88,7 @@ Prof. Dr. Lucas Rodrigues Costa
 
    8.3. Resolução de problema: [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](exercicios/Cap9/beecrowd_1259.py)]
 
-   8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](exercicios/Cap9/beecrowd_1383.py)]
+   8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](exercicios/Cap9/beecrowd_1383.py)]-->
 
    8.5. [Aula Prática I e II](exercicios/Cap9/)
 
