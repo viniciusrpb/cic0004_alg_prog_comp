@@ -88,7 +88,7 @@ Prof. Dr. Vinícius R. P. Borges
 
    8.3. Resolução de problema: [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](exercicios/Cap9/beecrowd_1259.py)]
 
-   8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](exercicios/Cap9/beecrowd_1383.py)]-->
+   8.4. Resolução de problema: [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](exercicios/Cap9/beecrowd_1383.py)]
 
    8.5. [Aula Prática I e II](exercicios/Cap9/)
 
